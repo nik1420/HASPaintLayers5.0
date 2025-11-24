@@ -55,7 +55,7 @@ import sys
 import bmesh
 from bpy_extras import view3d_utils
 import gpu
-from bgl import glEnable, glDisable, GL_BLEND, GL_DEPTH_TEST
+#from bgl import glEnable, glDisable, GL_BLEND, GL_DEPTH_TEST
 import math
 import tempfile
 from gpu_extras.batch import batch_for_shader
